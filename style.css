@@ -12,13 +12,13 @@ body {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    height: 100%;
+    height: 100vh;
     font-family: monospace;
 }
 .big_cell {
     flex: 1;
     min-width: 100%;
-    height: 30%;
+    height: 30vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,8 +29,8 @@ body {
 .small_cell {
     flex: 1;
     min-width: 50%;
-    width: 100%;
-    height: 70%;
+    width: 100vh;
+    height: 70vh;
     display: flex;
     justify-content: center;
     align-items: center;
