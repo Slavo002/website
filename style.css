@@ -37,6 +37,7 @@ body {
     box-sizing: border-box;
     background-color: #b7d1c0;
     background-image: url("document.jpg");
+    background-size: 90%;
     overflow: hidden;
     position: relative;
 }
