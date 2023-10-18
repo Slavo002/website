@@ -12,13 +12,13 @@ body {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    height: 100vh;
+    height: 100%;
     font-family: monospace;
 }
 .big_cell {
     flex: 1;
     min-width: 100%;
-    height: 30vh;
+    height: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,14 +30,14 @@ body {
     flex: 1;
     min-width: 50%;
     width: 100%;
-    height: 70vh;
+    height: 70%;
     display: flex;
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
     background-color: #b7d1c0;
     background-image: url("document.jpg");
-    background-size: 90%;
+    background-size: 100%;
     overflow: hidden;
     position: relative;
     margin-left: auto;
